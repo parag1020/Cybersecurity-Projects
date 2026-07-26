@@ -98,6 +98,19 @@ The objective was to gain hands-on experience with enterprise security workflows
 
 ---
 
+# 📄 Internship Documents
+
+This repository also includes official internship documents to verify the completion of the internship and associated achievements.
+
+| Document | Status |
+|----------|:------:|
+| 📄 Offer Letter | ✅ Available |
+| 🏆 Internship Certificate | ✅ Available |
+| 🌟 Letter of Recommendation (LOR) | ✅ Available |
+| 📘 Technical Report | ✅ Available |
+
+---
+
 # 🔄 Project Workflow
 
 ```text
