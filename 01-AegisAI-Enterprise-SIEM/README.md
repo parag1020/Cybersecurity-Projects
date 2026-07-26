@@ -10,6 +10,7 @@
 ![Focus](https://img.shields.io/badge/Focus-SOC%20Operations-orange?style=for-the-badge)
 ![MITRE](https://img.shields.io/badge/MITRE-ATT%26CK-purple?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-Educational-darkgreen?style=for-the-badge)
+![Internship](https://img.shields.io/badge/HCIC-Internship-blue?style=for-the-badge)
 
 *A modern enterprise-style Security Information and Event Management (SIEM) platform designed to simulate real-world Security Operations Center (SOC) workflows, combining centralized log management, intelligent threat detection, security monitoring, incident investigation, and AI-assisted analysis.*
 
