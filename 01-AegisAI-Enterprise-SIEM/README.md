@@ -56,7 +56,13 @@ The implementation combines practical cybersecurity concepts with enterprise mon
 - Security Event Visualization
 
 ---
+## 🏢 Project Context
 
+This project was completed as part of my **HCIC Cybersecurity Internship**, where I worked on practical cybersecurity concepts, security monitoring, and technical documentation.
+
+The objective was to gain hands-on experience with enterprise security workflows while improving practical cybersecurity skills through real-world tasks and structured reporting.
+
+---
 # 🛠️ Technology Stack
 
 | Category | Technologies |
