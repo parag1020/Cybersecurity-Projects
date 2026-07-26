@@ -1,21 +1,131 @@
-MIT License
+# Custom Portfolio License
 
 Copyright (c) 2026 Parag Patel
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+All Rights Reserved.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+---
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+## Purpose
+
+This repository has been created as a professional cybersecurity portfolio to showcase practical projects, technical documentation, internship work, and hands-on learning.
+
+The contents of this repository are intended for educational, portfolio, and professional demonstration purposes only.
+
+---
+
+# Permission
+
+You are permitted to:
+
+- View this repository.
+- Read the documentation.
+- Learn from the projects.
+- Fork the repository through GitHub.
+- Reference ideas for personal learning.
+- Share the repository link.
+- Suggest improvements through Issues or Pull Requests.
+
+---
+
+# Restrictions
+
+Without prior written permission from the repository owner, you may NOT:
+
+- Copy project reports.
+- Copy README files and publish them as your own.
+- Re-upload this repository or its contents.
+- Remove author credits.
+- Sell or redistribute any documentation.
+- Submit any project, report, or documentation as your own academic or professional work.
+- Claim authorship of any content contained in this repository.
+
+---
+
+# Educational Use
+
+Students are welcome to use this repository for learning purposes.
+
+You are encouraged to:
+
+- Understand the concepts.
+- Build your own implementation.
+- Create your own documentation.
+- Credit original sources where appropriate.
+
+Learning is encouraged.
+
+Plagiarism is not.
+
+---
+
+# Open Source Components
+
+Some projects may use or reference third-party open-source software, including but not limited to:
+
+- Wazuh
+- Splunk
+- Wireshark
+- Nmap
+- Autopsy
+- Volatility
+- Git
+- GitHub
+
+All trademarks, logos, and product names belong to their respective owners.
+
+This repository is not affiliated with, sponsored by, or endorsed by any of these organizations.
+
+---
+
+# Disclaimer
+
+All information contained in this repository is provided for educational and portfolio purposes only.
+
+The author makes no guarantees regarding completeness, suitability, or accuracy for production environments.
+
+Users are responsible for verifying all procedures before applying them in real-world systems.
+
+---
+
+# Ethical Use
+
+This repository supports ethical cybersecurity practices.
+
+The information contained here must never be used for:
+
+- Unauthorized access
+- Illegal activities
+- Malicious attacks
+- Harmful behavior
+- Academic misconduct
+
+Always follow applicable laws, institutional policies, and responsible disclosure practices.
+
+---
+
+# Contributions
+
+Constructive feedback, corrections, and suggestions are welcome.
+
+If you identify documentation improvements or technical issues, please open an Issue or submit a Pull Request.
+
+---
+
+# Contact
+
+**Author:** Parag Patel
+
+GitHub:
+https://github.com/parag1020
+
+LinkedIn:
+https://www.linkedin.com/in/parag-patel-9593742a7
+
+---
+
+© 2026 Parag Patel
+
+All Rights Reserved.
+
+This repository exists to demonstrate practical cybersecurity skills, continuous learning, and professional development.
